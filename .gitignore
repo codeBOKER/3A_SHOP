@@ -1,0 +1,5 @@
+# virtual envirment
+venv/
+
+# secret var
+.env
