@@ -113,6 +113,6 @@ For more details, visit [Creative Commons](https://creativecommons.org/licenses/
 ## Contact
 
 For any questions or concerns, please contact:  
-**Your Name**: Amr Bokar  
+**Your Name**: Amr Bakar  
 **Your Email**: amr6000baker@gmail.com   
-**GitHub Profile**: [Your GitHub Profile](https://github.com/yourusername)
+**GitHub Profile**: [My GitHub Profile](https://github.com/codeBOKER)
